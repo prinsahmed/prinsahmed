@@ -1,8 +1,19 @@
+<p align="left"><img width="1579" height="526" alt="self banner" src="https://github.com/user-attachments/assets/60cc1e68-0be5-4957-aced-15766fd04a1d" />
 <h1 align="center">Hi 👋, I'm Shohag Ahmed Prince</h1>
 <h3 align="center">An MERN stack web developer.</h3>
+<h3 align="left">About me:</h3>
+     <p> Hi, I'm Shohag Ahmed Prince  
+ (MERN Stack Web Developer)
 
+-  I specialize in MongoDB, Express.js, React.js, and Node.js  
+-  I love building clean, scalable, full-stack applications  
+-  Currently learning advanced React patterns & backend optimization  
+-  Interested in authentication, cloud deployment, and performance tuning  
+-  Open to collaboration on open-source or MERN projects  
+</p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shohag-ahmed-prince-360118292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohag-ahmed-prince-360118292" height="30" width="40" /></a>
 </p>
 
