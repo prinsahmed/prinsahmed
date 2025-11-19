@@ -41,5 +41,7 @@
 <p><img src="https://skillicons.dev/icons?i=git" height="50"/></p>
  <h3 align="left">Github Statistics: </h3>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinsahmed&show_icons=true&locale=en" alt="prinsahmed" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prinsahmed&layout=compact&theme=github)
+
 
 
