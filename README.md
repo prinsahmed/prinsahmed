@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shohag Ahmed Prince</h1>
 <h3 align="center">An MERN stack web developer.</h3>
 <h3 align="left">About me:</h3>
-     <p> Hi, I'm Shohag Ahmed Prince  
+     <p> Hi, I am Prince  
  (MERN Stack Web Developer)
 
--  I specialize in MongoDB, Express.js, React.js, and Node.js  
+-  I am specialized in MongoDB, Express.js, React.js, and Node.js  
 -  I love building clean, scalable, full-stack applications  
 -  Currently learning advanced React patterns & backend optimization  
 -  Interested in authentication, cloud deployment, and performance tuning  
