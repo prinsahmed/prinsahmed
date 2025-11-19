@@ -21,19 +21,19 @@
 
 <h2 align="left">Technology:</h2>
 <h3 align="left">Languages:</h3>
-<p align="left"> [![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)</p>
+<p align="left">[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)</p>
 
 <h3 align="left">CSS Framesworks & Libraries:</h3>
-<p align="left">[![CSS Framesworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)</p>
+<p align="left">[![CSS Frameworks](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)</p>
 
 <h3 align="left">Database:</h3>
-<p align="left">[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) </p>
+<p align="left">[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)</p>
 <h3 align="left">Deployment Platform:</h3>
-<p align="left">[![Deployment Platform](https://skillicons.dev/icons?i=firebase,vercel,netlify)](https://skillicons.dev) </p>
+<p align="left">[![Deployment Platform](https://skillicons.dev/icons?i=firebase,vercel,netlify)](https://skillicons.dev)</p>
 <h3 align="left">Design:</h3>
-<p align="left">[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  </p>
+<p align="left">[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)</p>
 <h3 align="left">Tools:</h3>
-<p>[![Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev) </p>
+<p>[![Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev)</p>
  <h3 align="left">Github Statistics: </h3>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinsahmed&show_icons=true&locale=en" alt="prinsahmed" /></p>
 
